@@ -16,16 +16,17 @@
 
 ### My World of Studies 
 
-- 🏦 I currently work as a Young Administrative Apprentice. I want to migrate to the area of data analyst/scientist and Power BI.
+-  I currently work as a Young Administrative Apprentice. I want to migrate to the area of data analyst/scientist and Power BI.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I'm currently studying Python, Data Science, Power BI, Machine Learning, SQL, Javascript, HTML5, and CSS3.
-- 📝 I'm a knowledge enthusiast.
-- 💬 **My languages:**
+-  I'm currently studying Python, Data Science, Power BI, Machine Learning, SQL, Javascript, HTML5, and CSS3.
+<br><img src="https://www.alura.com.br/artigos/assets/python-uma-introducao-a-linguagem/imagem1.gif" width="30"><img src="https://www.codingireland.ie/images/fields/GIF/databases.gif" width="30"><img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" width="50"><img src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png" width="30"><img src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png" width="30"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="50"><img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width="30"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" width="20">
+-  I'm a knowledge enthusiast.
+-  **My languages:**
 <br><img src="https://conceicaoverdade.com.br/hf-conteudo/uploads/posts/2020/11/20738_a9c0d4d8dba4b66314b1df73c52b79cb.jpg" width="30">English - Intermediate; 
- <br><img src="" width="30">Spanish - Intermediate; 
- <br><img src="" width="30">French - Basic;
- <br><img src="" width="30">German - Basic.
-- 📖 Passionate about Books.
+ <br><img src="https://gifs.eco.br/wp-content/uploads/2021/09/gifs-de-bandeiras-da-espanha-1.gif" width="20">Spanish - Intermediate; 
+ <br><img src="https://virtualfestivalofsongs.files.wordpress.com/2018/07/french-flag-waving-animated-gif-19.gif" width="20">French - Basic;
+ <br><img src="https://media.tenor.com/erCCPDFq0FgAAAAC/germany-flag-gif.gif" width="25">German - Basic.
+-  Passionate about Books.
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
