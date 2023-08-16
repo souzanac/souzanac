@@ -21,10 +21,10 @@
 - 💻 I'm currently studying Python, Data Science, Power BI, Machine Learning, SQL, Javascript, HTML5, and CSS3.
 - 📝 I'm a knowledge enthusiast.
 - 💬 **My languages:**
- English - Intermediate; 
- Spanish - Intermediate; 
- French - Basic;
- German - Basic.
+<br><img src="https://conceicaoverdade.com.br/hf-conteudo/uploads/posts/2020/11/20738_a9c0d4d8dba4b66314b1df73c52b79cb.jpg" width="30">English - Intermediate; 
+ <br><img src="" width="30">Spanish - Intermediate; 
+ <br><img src="" width="30">French - Basic;
+ <br><img src="" width="30">German - Basic.
 - 📖 Passionate about Books.
 
 ---
