@@ -26,20 +26,23 @@
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 
+
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=souzanac&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
 ### ⚙️ GitHub Analytics
-
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=souzanac&theme=algolia" alt="webDev's Github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=s&theme=nord&show_icons=true&count_private=true"alt="Ana's Github stats" />
     </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souzanac&theme=algolia&layout=compact" />
-    </td>
+  <td>
+    <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souzanac&theme=nord_dark" />
+ </td>
   </tr>
 </table>
+
+### 📈 GitHub Activity Graph:
+ [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=souzanac&theme=github)](https://github.com/darshanr27)
