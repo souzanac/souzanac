@@ -1,2 +1,3 @@
-<img src="Welcome.gif" width="950" height="200"/>
-
+<div>
+ <img align="right" alt="coding" width="400" src="giphy.gif">
+</div>
