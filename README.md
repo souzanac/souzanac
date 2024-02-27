@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=s&theme=nord&show_icons=true&count_private=true"alt="Ana's Github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=souzanac&theme=nord&show_icons=true&count_private=true"alt="Ana's Github stats" />
     </td>
   <td>
     <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souzanac&theme=nord_dark" />
