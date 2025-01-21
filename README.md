@@ -2,7 +2,6 @@
 
 <img align='right' src="Welcome.gif" width="300">
 <p><em> Sistemas de Informação - <a href="https://www.uemg.br/">Universidade do Estado de Minas Gerais</a>
-</br> Aprendiz de Desenvolvimento de Soluções tecnológicas - <a href="https://www.linkedin.com/company/cervejariacidadeimperial/"> Cervejaria Cidade Imperial</a></em></p>
 
 [![Linkedin: anacarolina](https://img.shields.io/badge/-anacarolina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacarolina/)](https://www.linkedin.com/in/souzanac)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:anacaroli.dev@gmail.com)
